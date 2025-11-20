@@ -1,7 +1,6 @@
 # 🚚 Logistics Route Optimization – Andressa Avelar Belo
 
-Projeto focado em **otimização logística**, **análise de custos de transporte** e **modelos de decisão** aplicados a roteamento.  
-Este repositório foi criado para demonstrar competências técnicas relevantes para funções como **Gestor(a) de Categoria**, **Business Analytics**, **Operações** e **Supply Chain**.
+Projeto focado em **otimização logística**, **análise de custos de transporte** e **modelos de decisão** aplicados a roteamento. Este repositório foi criado para demonstrar competências técnicas relevantes para funções como **Gestor(a) de Categoria**, **Business Analytics**, **Operações** e **Supply Chain**.
 
 ---
 
