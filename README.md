@@ -16,12 +16,12 @@ Este repositório foi criado para demonstrar competências técnicas relevantes 
 
 ## 📦 Estrutura do Repositório
 logistics-route-optimization/
-├── datasets/
-│ └── routes_sample.csv
-├── notebooks/
-│ └── route_optimization.ipynb
-├── images/
-│ └── mapas_e_graficos/
+│── datasets/
+│   └── routes_sample.csv     
+│── notebooks/
+│   └── route_optimization.ipynb
+│── images/
+│   └── mapas_e_graficos/
 └── README.md
 
 ---
