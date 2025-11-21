@@ -38,16 +38,24 @@ logistics-route-optimization/
 
 ## 🚀 Desenvolvimento do Projeto
 
-1. **Geração de dados fictícios realistas** para representar cidades, distâncias e custos.
-2. **Exploração inicial**: análise descritiva dos dados.
-3. **Implementação de algoritmos de otimização simples**:
-   - Nearest Neighbor  
-   - Greedy Heuristics  
-4. **Comparação de cenários**:
-   - Tempo total  
-   - Quilometragem  
-   - Custo por rota  
-5. **Conclusões e recomendações** para tomada de decisão estratégica.
+1. **Geração de dados fictícios realistas**  
+   - Criação de um conjunto de dados representando cidades, distâncias, tempos de deslocamento e custos de transporte.
+
+2. **Exploração inicial – Análise descritiva**  
+   - Estatísticas descritivas das rotas.  
+   - Identificação de padrões básicos e possíveis outliers.
+
+3. **Implementação de algoritmos de otimização simples**  
+   - **Nearest Neighbor** para construção de uma rota inicial.  
+   - **Greedy Heuristics** para melhoria incremental da rota.
+
+4. **Comparação de cenários**  
+   - Cenário base (rota não otimizada) vs. rota otimizada.  
+   - Comparação de **tempo total**, **quilometragem percorrida** e **custo por rota**.
+
+5. **Conclusões e recomendações**  
+   - Síntese dos ganhos obtidos com a otimização.  
+   - Recomendações para uso dos resultados em contexto logístico real.
 
 ---
 
