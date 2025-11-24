@@ -38,24 +38,47 @@ logistics-route-optimization/
 
 ## 🚀 Desenvolvimento do Projeto
 
-1. **Geração de dados fictícios realistas**  
-   - Criação de um conjunto de dados representando cidades, distâncias, tempos de deslocamento e custos de transporte.
+### 🔹 1. Geração de Dados Fictícios Realistas
 
-2. **Exploração inicial – Análise descritiva**  
-   - Estatísticas descritivas das rotas.  
-   - Identificação de padrões básicos e possíveis outliers.
+👉 Notebook / script com:
 
-3. **Implementação de algoritmos de otimização simples**  
-   - **Nearest Neighbor** para construção de uma rota inicial.  
-   - **Greedy Heuristics** para melhoria incremental da rota.
+- Criação de um conjunto de dados representando **cidades**, **distâncias**, **tempos de deslocamento** e **custos de transporte**.
 
-4. **Comparação de cenários**  
-   - Cenário base (rota não otimizada) vs. rota otimizada.  
-   - Comparação de **tempo total**, **quilometragem percorrida** e **custo por rota**.
+---
 
-5. **Conclusões e recomendações**  
-   - Síntese dos ganhos obtidos com a otimização.  
-   - Recomendações para uso dos resultados em contexto logístico real.
+### 🔹 2. Exploração Inicial – Análise Descritiva
+
+👉 Notebook de análise exploratória com:
+
+- Cálculo de **estatísticas descritivas** das rotas.  
+- Identificação de **padrões básicos** e possíveis **outliers**.
+
+---
+
+### 🔹 3. Implementação de Algoritmos de Otimização Simples
+
+👉 Notebook com algoritmos clássicos de roteamento:
+
+- **Nearest Neighbor** para construção de uma **rota inicial**.  
+- **Greedy Heuristics** para **melhoria incremental** da rota.
+
+---
+
+### 🔹 4. Comparação de Cenários
+
+👉 Notebook / relatório comparando:
+
+- **Cenário base** (rota não otimizada) vs. **rota otimizada**.  
+- Comparação de **tempo total**, **quilometragem percorrida** e **custo por rota**.
+
+---
+
+### 🔹 5. Conclusões e Recomendações
+
+👉 Documento / seção final com:
+
+- **Síntese dos ganhos** obtidos com a otimização.  
+- **Recomendações** para uso dos resultados em um **contexto logístico real**.
 
 ---
 
